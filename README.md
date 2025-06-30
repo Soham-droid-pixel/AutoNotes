@@ -48,8 +48,8 @@ An AI-powered text summarization and topic extraction tool built with React, Nod
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/AutoNotes2.0.git
-   cd AutoNotes2.0
+   git clone https://github.com/Soham-droid-pixel/AutoNotes.git
+   cd AutoNotes
    ```
 
 2. **Set up the Flask ML Service**
@@ -88,7 +88,7 @@ FLASK_ML_URL=http://localhost:5001
 ## 📁 Project Structure
 
 ```
-AutoNotes2.0/
+AutoNotes/
 ├── frontend/
 │   └── my-project/
 │       ├── src/
