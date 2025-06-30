@@ -240,9 +240,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://github.com/Soham-droid-pixel)
+Your Name -(https://github.com/Soham-droid-pixel)
 
-Project Link: [https://github.com/yourusername/AutoNotes2.0](https://github.com/Soham-droid-pixel/AutoNotes)
+Project Link:(https://github.com/Soham-droid-pixel/AutoNotes)
 
 ---
 
